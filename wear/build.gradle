@@ -6,7 +6,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "info.zhegui.test"
+        applicationId "info.zhegui.baidu_voice_search"
         minSdkVersion 20
         targetSdkVersion 20
         versionCode 1

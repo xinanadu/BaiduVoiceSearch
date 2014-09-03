@@ -1,4 +1,4 @@
-package info.zhegui.test;
+package info.zhegui.baidu_voice_search;
 
 import android.app.Activity;
 import android.os.Bundle;

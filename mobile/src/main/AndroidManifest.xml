@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:uses-permissionandroid="http://schemas.android.com/apk/res-auto"
-    package="info.zhegui.test">
+    package="info.zhegui.baidu_voice_search">
 
     <application
         android:allowBackup="true"

@@ -1,5 +1,5 @@
 
-package info.zhegui.test;
+package info.zhegui.baidu_voice_search;
 
 import com.baidu.voicerecognition.android.VoiceRecognitionConfig;
 import com.baidu.voicerecognition.android.ui.BaiduASRDigitalDialog;
